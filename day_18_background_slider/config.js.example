@@ -1,0 +1,5 @@
+// Copy this file to config.js and add your Unsplash API key
+// config.js is in .gitignore and will not be committed to git
+
+var UNSPLASH_ACCESS_KEY = 'your_unsplash_access_key_here';
+

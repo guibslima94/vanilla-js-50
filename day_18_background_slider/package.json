@@ -1,0 +1,11 @@
+{
+  "name": "background-slider",
+  "version": "1.0.0",
+  "description": "Background slider with Unsplash API integration",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "unsplash-js": "^7.0.20"
+  }
+}
